@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my fun projects are available at [https://github.com/mmarquez06/]
 
-- 📝 I write tech blogs on [https://medium.com/@sukuzhanay](https://medium.com/@sukuzhanay)
+- 📝 I write tech blogs on [https://medium.com/@MariaMarquezLuquin](https://medium.com/@MariaMarquezLuquin)
 
 - 💬 Ask me about **R, Matlab, GitHub, Biomedical Engineering **
 
