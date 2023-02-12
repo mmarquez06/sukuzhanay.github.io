@@ -3,7 +3,7 @@
 
 - 📖 I’m currently studying at **Universidad Europea** 
 
-- 👨‍💻 Some of my fun projects are available at [https://mmarquez06.me/]
+- 👨‍💻 Some of my fun projects are available at [https://github.com/mmarquez06/]
 
 - 📝 I write tech blogs on [https://medium.com/@sukuzhanay](https://medium.com/@sukuzhanay)
 
